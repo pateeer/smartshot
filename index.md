@@ -60,8 +60,8 @@ Learn more about us on the [About Us](/about) page.
 
 ## 📘 Learn More
 
-- 📄 [Project Summary](/project)  
-- 👥 [About Us](/about)
+- 📄 [Project Summary](/project.html)  
+- 👥 [About Us](/about.html)
 
 ---
 
