@@ -1,4 +1,7 @@
-# SmartShot – Project Summary
+---
+title: Project Summary
+layout: default
+---
 
 ## Overview
 **SmartShot** is an intelligent monitoring system built around a smart shot cup that tracks how much alcohol a user consumes during a drinking session.  

@@ -1,4 +1,8 @@
-# About Us
+---
+title: About Us
+layout: default
+---
+
 
 ## Who We Are
 We are a team of four students working together on **SmartShot**, an innovative device that brings smart technology into social drinking.  

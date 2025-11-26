@@ -5,11 +5,9 @@ layout: default
 
 <!-- Hero Section -->
 <div style="text-align: center; padding: 40px 20px;">
-  <h1 style="font-size: 3rem; margin-bottom: 10px;">SmartShot</h1>
   <p style="font-size: 1.3rem; color: #555; max-width: 600px; margin: 0 auto;">
     Intelligent shot cup that tracks your alcohol consumption in real time and displays it in a mobile app.
   </p>
-  <div style="font-size: 3rem; font-weight: bold;">SmartShot</div>
 </div>
 
 ---
@@ -66,8 +64,4 @@ Learn more about us on the [About Us](/about) page.
 - 👥 [About Us](/about)
 
 ---
-
-## 🖼 Screenshots (optional)
-
-Add screenshots here later:
 
