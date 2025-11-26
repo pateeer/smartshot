@@ -1,0 +1,11 @@
+theme: minima
+title: SmartShot
+description: SmartShot – Intelligent Shot Cup with Real-Time Alcohol Tracking
+
+nav_links:
+  - name: Home
+    url: /
+  - name: About Us
+    url: /about
+  - name: Project Summary
+    url: /project
